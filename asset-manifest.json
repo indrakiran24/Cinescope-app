@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Cinescope-app/static/css/main.85a2b202.css",
-    "main.js": "/Cinescope-app/static/js/main.5690679a.js",
+    "main.js": "/Cinescope-app/static/js/main.fa7b09af.js",
     "index.html": "/Cinescope-app/index.html",
     "main.85a2b202.css.map": "/Cinescope-app/static/css/main.85a2b202.css.map",
-    "main.5690679a.js.map": "/Cinescope-app/static/js/main.5690679a.js.map"
+    "main.fa7b09af.js.map": "/Cinescope-app/static/js/main.fa7b09af.js.map"
   },
   "entrypoints": [
     "static/css/main.85a2b202.css",
-    "static/js/main.5690679a.js"
+    "static/js/main.fa7b09af.js"
   ]
 }
